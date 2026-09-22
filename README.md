@@ -11,4 +11,4 @@ Este foi meu primeiro contato acadêmico com um projeto de desenvolvimento de jo
 
 
 
-[Visualizar Game Design Document]https://drive.google.com/file/d/1HGBvCT4uemRptjvyItGJmRPrwXxPs9ym/view?usp=sharing
+Visualizar Game Design Document: https://drive.google.com/file/d/1HGBvCT4uemRptjvyItGJmRPrwXxPs9ym/view?usp=sharing
