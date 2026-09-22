@@ -1,5 +1,5 @@
 # cults-game-design-project
-Cults - Caça ao Tesouro
+## Cults - Caça ao Tesouro
 
 Projeto interdisciplinar desenvolvido durante minha graduação em Sistemas de Informação. O projeto consistiu na concepção e prototipação de um jogo educacional/trivia para dispositivos móveis, utilizando Unity.
 
